@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m an economist
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning R,Python an SQL
 - 📫 How to reach me: marcela.fr@outlook.com.br
 - 😄 Pronouns: She/Her
 
