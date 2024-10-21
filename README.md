@@ -16,7 +16,6 @@ Habilidades
 📑 Pesquisa econômica e relatório
 
 Estou aprendendo
-🌱 Aprofundando meus conhecimentos em:
 
 R: análise avançada de séries temporais e econometria
 Python: machine learning aplicado à economia
