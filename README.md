@@ -3,24 +3,33 @@
 
 
 Sobre Mim
+
 🎓 Economista apaixonada por dados 
 
 🌍 Baseada em Taubaté, São Paulo
+
 💼 Atualmente trabalhando como Analista de dados em uma starutp da area de marketing digital
 
 Habilidades
 
 📊 Análise de dados
+
 📈 Modelagem estatística
+
 💻 Programação: R, Python, SQL
+
 📉 Visualização de dados
+
 📑 Pesquisa econômica e relatório
 
 Estou aprendendo
 
 R: análise avançada de séries temporais e econometria
+
 Python: machine learning aplicado à economia
+
 SQL: consultas complexas e otimização de banco de dados
+
 Econometria : causal inference e impact evaluation
 
 Conecte-se comigo
