@@ -4,6 +4,7 @@
 
 Sobre Mim
 🎓 Economista apaixonada por dados 
+
 🌍 Baseada em Taubaté, São Paulo
 💼 Atualmente trabalhando como Analista de dados em uma starutp da area de marketing digital
 
