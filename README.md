@@ -2,10 +2,31 @@
 
 
 
-- 🔭 I’m an economist
-- 🌱 I’m currently learning R,Python and SQL
-- 📫 How to reach me: marcelafr.rocha@gmail.com
-- 😄 Pronouns: She/Her
+Sobre Mim
+🎓 Economista apaixonada por dados 
+🌍 Baseada em Taubaté, São Paulo
+💼 Atualmente trabalhando como Analista de dados em uma starutp da area de marketing digital
+
+Habilidades
+
+📊 Análise de dados
+📈 Modelagem estatística
+💻 Programação: R, Python, SQL
+📉 Visualização de dados
+📑 Pesquisa econômica e relatório
+
+Estou aprendendo
+🌱 Aprofundando meus conhecimentos em:
+
+R: análise avançada de séries temporais e econometria
+Python: machine learning aplicado à economia
+SQL: consultas complexas e otimização de banco de dados
+Econometria : causal inference e impact evaluation
+
+Conecte-se comigo
+
+📧 Email: marcela.fr@outlook.com.br
+🔗 LinkedIn: https://www.linkedin.com/in/marcela-ferreira-da-rocha
 
 <div align="center">
   <a href="https://github.com/MarcelaFerreiraR">
