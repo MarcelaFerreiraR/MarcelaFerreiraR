@@ -34,7 +34,6 @@ Econometria : causal inference e impact evaluation
 
 Conecte-se comigo
 
-📧 Email: marcela.fr@outlook.com.br
 🔗 LinkedIn: https://www.linkedin.com/in/marcela-ferreira-da-rocha
 
 <div align="center">
