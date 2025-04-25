@@ -1,47 +1,58 @@
-### Hellooo I'm Marcela Ferreira 👋
+<h1 align="center">Hi there, I'm Marcela Ferreira 👋</h1>
 
+<p align="center">
+  <em>Economist | Data Analyst | Passionate about translating data into insights</em>
+</p>
 
+---
 
-Sobre Mim
+### 📍 About Me
 
-🎓 Economista apaixonada por dados 
+- 🎓 Economist passionate about data and applied analytics  
+- 📍 Based in Taubaté, São Paulo, Brazil  
+- 💼 Currently working as a Data Analyst at a startup in the digital marketing sector  
+- 🚀 Turning data into strategy and helping businesses grow through analytics
 
-🌍 Baseada em Taubaté, São Paulo
+---
 
-💼 Atualmente trabalhando como Analista de dados em uma starutp da area de marketing digital
+### 🛠️ Skills
 
-Habilidades
+- 📊 Data Analysis & Business Intelligence  
+- 📈 Statistical Modeling (regression, forecasts, tests)  
+- 💻 Programming: `R`, `Python`, `SQL`  
+- 📉 Data Visualization: Power BI, ggplot2, matplotlib, seaborn  
+- 📚 Economic Research & Report Writing
 
-📊 Análise de dados
+---
 
-📈 Modelagem estatística
+### 🚧 Currently Learning
 
-💻 Programação: R, Python, SQL
+- 🧠 **R**: Time series analysis & econometrics  
+- 🤖 **Python**: Machine learning applied to economics  
+- 🛢️ **SQL**: Complex queries & database optimization  
+- 📊 **Econometrics**: Causal inference & impact evaluation  
 
-📉 Visualização de dados
+---
 
-📑 Pesquisa econômica e relatório
+### 📊 GitHub Stats
 
-Estou aprendendo
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaFerreiraR&layout=compact&theme=tokyonight"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcelaFerreiraR&show_icons=true&theme=tokyonight&hide=prs,issues"/>
+</p>
 
-R: análise avançada de séries temporais e econometria
+---
 
-Python: machine learning aplicado à economia
+### 🌐 Let's Connect
 
-SQL: consultas complexas e otimização de banco de dados
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marcela-ferreira-da-rocha)  
+- 📬 Feel free to reach out and chat about data, economics, or coffee ☕
 
-Econometria : causal inference e impact evaluation
+---
 
-Conecte-se comigo
-
-🔗 LinkedIn: https://www.linkedin.com/in/marcela-ferreira-da-rocha
-
-<div align="center">
-  <a href="https://github.com/MarcelaFerreiraR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcelaFerreiraR&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaFerreiraR&layout=compact&langs_count=7&theme=synthwave"/>
-
-<div>
-
-<img align="center" alt="r" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<p align="center">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
