@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Marcela Ferreira 👋</h1>
 
 <p align="center">
-  <em>Economist | Data Analyst | Passionate about translating data into insights</em>
+  <em>Economist | Data Scientist | Passionate about translating data into insights</em>
 </p>
 
 ---
