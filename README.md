@@ -46,7 +46,8 @@
 
 ### 🌐 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/marcela-ferreira-da-rocha)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marcela-ferreira-da-rocha)
+- 🔗 [Blog](https://medium.com/@marcela.rocha)
 - 📬 Feel free to reach out and chat about data, economics, or coffee ☕
 
 ---
