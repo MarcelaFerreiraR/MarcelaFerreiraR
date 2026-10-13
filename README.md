@@ -9,7 +9,7 @@
 ### 📍 About Me
 
 - 🎓 Economist passionate about data and applied analytics  
-- 📍 Based in Taubaté, São Paulo, Brazil  
+- 📍 Based in Guarulhos, São Paulo, Brazil  
 - 💼 Currently working as a Data Analyst at a startup in the digital marketing sector  
 - 🚀 Turning data into strategy and helping businesses grow through analytics
 
